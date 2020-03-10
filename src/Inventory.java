@@ -1,9 +1,9 @@
+import java.io.FileNotFoundException;
 import java.util.HashMap;
 
 public class Inventory {
 
-    public static void main(String args[])
-    {
+    public static void main(String args[]) throws FileNotFoundException {
         /*
         String AscensionSkillEnhancementMaterials[] =
                 {"Deadly Poisonous Needle",
@@ -20,7 +20,10 @@ public class Inventory {
 
         MaterialsList mylist = new MaterialsList();
         mylist.blankItemList();
-        mylist.printItem(0);
+        mylist.changeValues("Horsehoe",10);
+        mylist.changeValues("Horsehoe",10);
+        //mylist.printItem(0);
+        //mylist.printItem(1);
         //Item i = new Item("Dragon Fang",0,0);
         //i.printI();
     }

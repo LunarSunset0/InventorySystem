@@ -1,0 +1,39 @@
+Fools Chains,0,0
+Poison Needles,0,0
+Dragon Fang,0,0
+Evil Bone,0,0
+Iron Stake,0,0
+Spinal Fluid,0,0
+Hero Proof,0,0
+Gunpowder,0,0
+Void Dust,0,0
+White Magatama,0,0
+Aurora Steel,0,0
+Eternal Frost,0,0
+Eternal Gear,0,0
+Forbidden Page,0,0
+Ghost Lantern,0,0
+Knight Medal,0,0
+Homunculus Baby,0,0
+Horsehoe,0,0
+Octuplet Crystal,0,0
+Phoenix Feather,0,0
+Giants Ring,0,0
+Yggrdrasil Seed,0,0
+Serpent Jewel,0,0
+Sea Shell,0,0
+Ancient Bell,0,0
+Grease Pot,0,0
+Divine Wine,0,0
+Chaos Claw,0,0
+Gallstone,0,0
+Dawn Core,0,0
+Dragons Scale,0,0
+Hearts,0,0
+Lamps,0,0
+Lanugo,0,0
+Scarab,0,0
+Spirit Root,0,0
+Tearstone,0,0
+Tsukumo Mirror,0,0
+Warhorse Horn,0,0

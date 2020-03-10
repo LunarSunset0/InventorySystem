@@ -1,0 +1,8 @@
+Deadly Poisonous Needle,0,1
+Dragon Fang,0,1
+Evil Bone,0,1
+Fool's Chain,0,1
+Mystic Spinal Fluid,0,1
+Proof of Hero,0,1
+Reactive Gunpowder,0,1,0,1 0 1
+Void's Dust,0,1
